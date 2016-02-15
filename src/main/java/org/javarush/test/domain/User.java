@@ -92,7 +92,7 @@ public class User implements Serializable,Comparable<User> {
 
         return getId()-o.getId();
     }
-  public void editUser(User user){
+  public void editUsers(User user){
 
   }
 }
